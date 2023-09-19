@@ -6,7 +6,7 @@ order: 4
 
 # THIS BLOG
 
-I created this blog to document and share the things I am learning, working on, and generally thinking about in the scope of offensive security and red teaming. Much of what I'll be posting about likely won't be very novel; the point is rather to translate what I'm learning into information that might be able to help others in their offsec journey. Teaching is also one of the best ways of learning. 
+I created this blog to document and share the things I am learning, working on, and generally thinking about in the scope of offensive security and red teaming. Much of what I'll be posting about likely won't be very novel; the point is rather to translate what I'm learning into information that might be able to help others in their offsec journey. Teaching is one of the best ways of learning. 
 
 This is also a way for me to interact with and hopefully contribue to the broader offensive security industry. To that end, please don't hesitate to reach out to correct innaccuracies (I am _always_ seeking out constructive feedback and criticism), ask a question, or just generally to connect!
 
