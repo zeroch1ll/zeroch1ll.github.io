@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Blogging about red teaming, offensive security, malware, coding, and hacking. 0 chill
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://blog.no-sleep.xyz"
 
 github:
   username: zeroch1ll # change to your github username
@@ -73,7 +73,7 @@ theme_mode:  dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: /assets/img/avatar.png
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
