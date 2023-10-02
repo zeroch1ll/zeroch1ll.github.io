@@ -10,7 +10,7 @@ I created this blog to document and share the things I am learning, working on, 
 
 This is also a way for me to interact with and hopefully contribue to the broader offensive security industry. To that end, please don't hesitate to reach out to correct innaccuracies (I am _always_ seeking out constructive feedback and criticism), ask a question, or just generally to connect!
 
-Topics will include development in C++, Windows Internals, DevOps, *nix Internals, Evasion, and general pen testing stuff.
+Topics will include development in C++ and C#, Windows Internals, DevOps, *nix Internals, Evasion, and general pen testing stuff.
 
 # ME
 
